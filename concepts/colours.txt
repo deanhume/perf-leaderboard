@@ -1,0 +1,4 @@
+red - #ff3b30
+green - #0db14b
+blue - 2577ff
+yellow - #fcb814
